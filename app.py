@@ -8,7 +8,7 @@ from models.MultiLang_Efficient_Embedder import model_nli as MultiLang_Efficient
 from models.distilBERT_model import model as DestilBERT_model
 
 
-filename = 'sample/ground_truth_adjusted_scraping.json'
+filename = 'data/ground_truth.json'
 
 with open(filename, 'r') as file:
     ground_truth = json.load(file)

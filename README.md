@@ -46,8 +46,6 @@ Before installing the project dependencies, it's recommended to set up a virtual
 
 ### Creating a Virtual Environment
 
-**Create the Virtual Environment**
-
    Run the following command to create a virtual environment named `venv` within the project directory. You can replace `venv` with any name you prefer for your virtual environment.
 
    - On macOS and Linux:
@@ -85,21 +83,18 @@ To get started with this project, follow these steps:
 
 ## Running the Project
 
-To run a semantic search query using our system, use the following command template in Python:
+To run a semantic search query using app.py, use the following command template in Python:
 
 ```python
-from your_module import search_similar_entries
 
-query = "Your search query"
-top_k = Number of top results you want
-data_cleaning = True or False (based on whether you want to preprocess the data)
-algorithm = cosine_similarity (or any other algorithm you wish to use)
-model = Your chosen model (e.g., German_Semantic_Comparator)
+query = "search query"
+top_k = Number of top results 
+data_cleaning = True or False (based on whether to preprocess the data)
+algorithm = cosine_similarity (or other algorithm to use)
+model = chosen model (e.g., German_Semantic_Comparator)
 features = List of features to consider in the search
 reverse = True or False (based on the algorithm's sorting requirement)
 
-results = search_similar_entries(query, data, top_k, data_cleaning, algorithm, model, features, reverse)
-print(results)
 ```
 
 Replace the placeholders with your specific details to perform a search. For a detailed explanation of each parameter and how to customize your search, refer to the source code documentation.

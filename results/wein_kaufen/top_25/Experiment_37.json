@@ -1,0 +1,1302 @@
+[
+    {
+        "similarity": 0.7852953672409058,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "vinonia.com"
+            },
+            {
+                "advertiser.domain_name": "taboola.com"
+            }
+        ],
+        "publisher_name": "https://mirror.co.uk/",
+        "body_text": "TOP Weine auf VINONIA.com | Wein online direkt Abhof kaufen!\nVINONIA OG\nby Taboola\nSponsored Link",
+        "screenshot_entropy": 5.048334615138646,
+        "screenshot": "0_2.png",
+        "scraper_proxy_name": "Berlin",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-06-18/Pop_music/mirror.co.uk/f155ec34dd1e4ced",
+        "hash_value": "2f2589f4bdafdbfd",
+        "day": "2023-06-18",
+        "timestamp": "2023-06-18T21:15:55.964335",
+        "_index": "ads_pop_music",
+        "_id": "f155ec34dd1e4ced_0_2",
+        "_score": 0,
+        "keywords": [
+            "TOP",
+            "Weine",
+            "VINONIA.com",
+            "Wein",
+            "Abhof",
+            "VINONIA",
+            "OG",
+            "Taboola",
+            "Sponsored",
+            "Link"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-06-18/Pop_music/mirror.co.uk/f155ec34dd1e4ced/0_2.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "Vinonja Wein ouline Vin ONIA.com J Wein online direkt Abhof kaufen! 1 Sponsored Link by Taboola 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1",
+        "image_caption_en": "a close up of a wine glass with a wine bottle in it",
+        "image_caption_de": "eine Nahaufnahme eines Weinglases mit einer Weinflasche darin",
+        "combined_description": "VINONIA - Der Wein Marktplatz! - Kaufen Sie online Wein einfach, schnell und direkt Ab Hof bei unseren Winzer \u00c3\u00bcber unseren Wein online shop! Taboola is the world's leading discovery & native advertising platform that helps people explore what's interesting and new in the moment of next."
+    },
+    {
+        "similarity": 0.7818360924720764,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "criteo.com"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            }
+        ],
+        "publisher_name": "https://www.liverpoolecho.co.uk/",
+        "body_text": "ALLESVERLOREN TINTA BAROCCA-SHIRAZ 1704 RED SWARTLAND WO 2015\nDie weiche und elegante Cuv\u00e9e von Allesverloren aus 70 Prozent Shiraz und 30 Prozent Tinta Barroca zeigt sich nach dem Ausbau in Barriques im Glas mit einem tiefe\u2026\n\nCHF /L\nCHF 10,50\n\nZUM PRODUKT",
+        "screenshot_entropy": 1.7207333675716487,
+        "screenshot": "1_5.png",
+        "scraper_proxy_name": "Zurich",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-05-16/Pop_music/www.liverpoolecho.co.uk/44b988ecd15842e9",
+        "hash_value": "d5926651e69d59f4",
+        "day": "2023-05-16",
+        "timestamp": "2023-05-16T19:11:06.538579",
+        "_index": "ads_pop_music",
+        "_id": "44b988ecd15842e9_1_5",
+        "_score": 0,
+        "keywords": [
+            "ALLESVERLOREN",
+            "TINTA",
+            "BAROCCA-SHIRAZ",
+            "RED",
+            "SWARTLAND",
+            "Cuv\u00e9e",
+            "Allesverloren",
+            "Prozent",
+            "Shiraz",
+            "Prozent",
+            "Tinta",
+            "Barroca",
+            "Ausbau",
+            "Barriques",
+            "Glas",
+            "CHF",
+            "CHF",
+            "PRODUKT"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-05-16/Pop_music/www.liverpoolecho.co.uk/44b988ecd15842e9/1_5.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "Ansbuin Barques in Glas nt \u00e9l\u00e9ven tief Ansbuin & Barques in Glas nt \u00e9l\u00e9ven tief Prozent Time Bernca n\u00e9 n\u00e9 n\u00e9 nd emballage Prozent Time Bernca n\u00e9 n\u00e9 nd emballage Prozent Time Bernca n\u00e9 n\u00e9 n\u00e9 n\u00e9 n\u00e9 n\u00e9 n\u00e9 n\u00e9.",
+        "image_caption_en": "a close up of a bottle of wine with a bunch of bottles",
+        "image_caption_de": "eine Nahaufnahme einer Flasche Wein mit einem B\u00fcndel Flaschen",
+        "combined_description": "Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Activate the world\u2019s largest set of commerce data to bring richer experiences to consumers with our Commerce Media Platform. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert."
+    },
+    {
+        "similarity": 0.778996467590332,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "rindchen.de"
+            },
+            {
+                "advertiser.domain_name": "rindchen.de"
+            },
+            {
+                "advertiser.domain_name": "rindchen.de"
+            },
+            {
+                "advertiser.domain_name": "rindchen.de"
+            },
+            {
+                "advertiser.domain_name": "criteo.com"
+            },
+            {
+                "advertiser.domain_name": "rindchen.de"
+            },
+            {
+                "advertiser.domain_name": "rindchen.de"
+            },
+            {
+                "advertiser.domain_name": "rindchen.de"
+            },
+            {
+                "advertiser.domain_name": "rindchen.de"
+            },
+            {
+                "advertiser.domain_name": "rindchen.de"
+            }
+        ],
+        "publisher_name": "https://birminghammail.co.uk/",
+        "body_text": "Schlossm\u00fchlenhof - \"Morge\u2026\n11.93 \u20ac / 1 l\n8,95 \u20ac Azienda Torrevento - \"La L\u2026\n13.27 \u20ac / 1 l\n9,95 \u20ac Casa Agr\u00edcola Alexand\u2026\n17.07 \u20ac / 1 l\n12,80 \u20ac Baglio Gibellina - \"u...Pas\u2026\n18 \u20ac / 1 l\n13,50 \u20ac\nWeingut Brandt - \"Grenze\u2026\n13.07 \u20ac / 1 l\n9,80 \u20ac Manufaktur J\u00f6rg Geiger -\u2026\n13.33 \u20ac / 1 l\n10 \u20ac Domaine Yves & Benoit\u2026\n39.73 \u20ac / 1 l\n29,80 \u20ac Seifried Estate - Rabbit I\u2026\n10.6 \u20ac / 1 l\n7,95 \u20ac",
+        "screenshot_entropy": 2.8832953693506815,
+        "screenshot": "1_8.png",
+        "scraper_proxy_name": "Berlin",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-06-04/Fine_art/birminghammail.co.uk/d088a4089bb24956",
+        "hash_value": "3daab77db4da2513",
+        "day": "2023-06-04",
+        "timestamp": "2023-06-04T07:30:03.091179",
+        "_index": "ads_fine_art",
+        "_id": "d088a4089bb24956_1_8",
+        "_score": 0,
+        "keywords": [
+            "Schlossm\u00fchlenhof",
+            "Morge",
+            "\u20ac",
+            "\u20ac",
+            "Azienda",
+            "Torrevento",
+            "La",
+            "L",
+            "\u20ac",
+            "\u20ac",
+            "Casa",
+            "Agr\u00edcola",
+            "Alexand",
+            "\u20ac",
+            "\u20ac",
+            "Baglio",
+            "Gibellina",
+            "Pas",
+            "\u20ac",
+            "\u20ac",
+            "Weingut",
+            "Brandt",
+            "Grenze",
+            "\u20ac",
+            "\u20ac",
+            "Manufaktur",
+            "J\u00f6rg",
+            "Geiger",
+            "\u20ac",
+            "\u20ac",
+            "Domaine",
+            "Yves",
+            "Benoit",
+            "\u20ac",
+            "\u20ac",
+            "Seifried",
+            "Estate",
+            "10.6",
+            "\u20ac",
+            "\u20ac"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-06-04/Fine_art/birminghammail.co.uk/d088a4089bb24956/1_8.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "Torrevent Azienda Azienda B\u00fcenz Aexand Azienda Azienda Azienda Azienda Azienda Azienda Azienda Azienda Azienda Azienda Azienda Azienda Azienda Azienda Azienda Azienda Am\u00e9n Am\u00e9na Am\u00e9na Pr\u00e4valia Pr\u00e4valia Pr\u00e4valia Pr\u00e4valia Pr\u00e4valia Pr\u00e4valia Pr\u00e4valia Pr\u00e4valia Pr\u00e4valia Pr\u00e4valia Pr\u00e4valia Pr\u00e4a Pr\u00e4apr\u00e4a Pr\u00e4apr\u00e4a Pr\u00e4apr\u00e4a Pr\u00e4apr\u00e4apr\u00e4a Pr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4apr\u00e4a",
+        "image_caption_en": "a close up of a bunch of wine bottles on a table",
+        "image_caption_de": "eine Nahaufnahme eines B\u00fcndels Weinflaschen auf einem Tisch",
+        "combined_description": "\u00dcber 1000 Weine online Kaufen. Rotwein, Wei\u00dfwein, Ros\u00e9, Sekt und Champagner mit gro\u00dfer Auswahl bequem bestellen.  Versandkostenfrei Wein kaufen ab 90\u20ac. \u00dcber 1000 Weine online Kaufen. Rotwein, Wei\u00dfwein, Ros\u00e9, Sekt und Champagner mit gro\u00dfer Auswahl bequem bestellen.  Versandkostenfrei Wein kaufen ab 90\u20ac. \u00dcber 1000 Weine online Kaufen. Rotwein, Wei\u00dfwein, Ros\u00e9, Sekt und Champagner mit gro\u00dfer Auswahl bequem bestellen.  Versandkostenfrei Wein kaufen ab 90\u20ac. \u00dcber 1000 Weine online Kaufen. Rotwein, Wei\u00dfwein, Ros\u00e9, Sekt und Champagner mit gro\u00dfer Auswahl bequem bestellen.  Versandkostenfrei Wein kaufen ab 90\u20ac. Activate the world\u2019s largest set of commerce data to bring richer experiences to consumers with our Commerce Media Platform. \u00dcber 1000 Weine online Kaufen. Rotwein, Wei\u00dfwein, Ros\u00e9, Sekt und Champagner mit gro\u00dfer Auswahl bequem bestellen.  Versandkostenfrei Wein kaufen ab 90\u20ac. \u00dcber 1000 Weine online Kaufen. Rotwein, Wei\u00dfwein, Ros\u00e9, Sekt und Champagner mit gro\u00dfer Auswahl bequem bestellen.  Versandkostenfrei Wein kaufen ab 90\u20ac. \u00dcber 1000 Weine online Kaufen. Rotwein, Wei\u00dfwein, Ros\u00e9, Sekt und Champagner mit gro\u00dfer Auswahl bequem bestellen.  Versandkostenfrei Wein kaufen ab 90\u20ac. \u00dcber 1000 Weine online Kaufen. Rotwein, Wei\u00dfwein, Ros\u00e9, Sekt und Champagner mit gro\u00dfer Auswahl bequem bestellen.  Versandkostenfrei Wein kaufen ab 90\u20ac. \u00dcber 1000 Weine online Kaufen. Rotwein, Wei\u00dfwein, Ros\u00e9, Sekt und Champagner mit gro\u00dfer Auswahl bequem bestellen.  Versandkostenfrei Wein kaufen ab 90\u20ac."
+    },
+    {
+        "similarity": 0.7758517861366272,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "taboola.com"
+            },
+            {
+                "advertiser.domain_name": "vinonia.com"
+            }
+        ],
+        "publisher_name": "https://dailyrecord.co.uk/",
+        "body_text": "TOP Weine auf VINONIA.com | Wein online direkt Abhof kaufen!\nVINONIA OG\nby Taboola\nSponsored Link",
+        "screenshot_entropy": 4.992472100382044,
+        "screenshot": "1_4.png",
+        "scraper_proxy_name": "Vienna",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-05-14/Pop_music/dailyrecord.co.uk/9adfba67735c4e19",
+        "hash_value": "c727f2c6b9976761",
+        "day": "2023-05-14",
+        "timestamp": "2023-05-14T18:49:00.779453",
+        "_index": "ads_pop_music",
+        "_id": "9adfba67735c4e19_1_4",
+        "_score": 0,
+        "keywords": [
+            "TOP",
+            "Weine",
+            "VINONIA.com",
+            "Wein",
+            "Abhof",
+            "VINONIA",
+            "OG",
+            "Taboola",
+            "Sponsored",
+            "Link"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-05-14/Pop_music/dailyrecord.co.uk/9adfba67735c4e19/1_4.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "online direkt Abhof kaufen! Weine auf VlnoNIA.com nan VIRONIA OG TOP Weine auf VIRONIA.com | Wein online direkt Abhof kaufen! 1 Sponsored Link by Taboola 1\u7bc0 Weine auf VIRONIA.com | Wein online direkt Abhof kaufen! 1\u7bc0 Weine auf VIRONIA.com | Wein online direkt Abhof kaufen! 1\u7bc0 Wone auf VIRONIA.com | Wein online direkt Abhof kaufen! 1\u7bc0 Wone auf VIRONIA.com | Wein vonline direkt Abhof kaufen! 1\u7bc0 Wone direkt Abhof kaufen! 1\u7bc0 Wone auf VIRONIA OG 1\u7bc0 1\u7bc0 Vaboola 40 VIRONIA.com | Wein 40 VIRONIA.com | Wein 40 VIRONIA.com | Wein 40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  40 VIRONIA.com  online direkt Abhof Kaufen! 40 VIRONIA.com  online dire",
+        "image_caption_en": "a close up of a wine glass with a wine bottle in it",
+        "image_caption_de": "eine Nahaufnahme eines Weinglases mit einer Weinflasche darin",
+        "combined_description": "Taboola is the world's leading discovery & native advertising platform that helps people explore what's interesting and new in the moment of next. VINONIA - Der Wein Marktplatz! - Kaufen Sie online Wein einfach, schnell und direkt Ab Hof bei unseren Winzer \u00c3\u00bcber unseren Wein online shop!"
+    },
+    {
+        "similarity": 0.767384946346283,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "taboola.com"
+            },
+            {
+                "advertiser.domain_name": "vinonia.com"
+            }
+        ],
+        "publisher_name": "https://express.co.uk/",
+        "body_text": "TOP Weine auf VINONIA.com | Wein online direkt Abhof kaufen!\nVINONIA OG\nUndo\nby Taboola\nSponsored Links",
+        "screenshot_entropy": 3.524967100187807,
+        "screenshot": "1_7.png",
+        "scraper_proxy_name": "Vienna",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-06-15/Pet_food/express.co.uk/a273cea3144a45f6",
+        "hash_value": "70836dc21b2f06a5",
+        "day": "2023-06-15",
+        "timestamp": "2023-06-15T20:18:10.104468",
+        "_index": "ads_pet_food",
+        "_id": "a273cea3144a45f6_1_7",
+        "_score": 0,
+        "keywords": [
+            "TOP",
+            "Weine",
+            "VINONIA.com",
+            "Wein",
+            "Abhof",
+            "VINONIA",
+            "OG",
+            "Undo",
+            "Taboola",
+            "Sponsored",
+            "Links"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-06-15/Pet_food/express.co.uk/a273cea3144a45f6/1_7.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "Wein online VIN NIA OG Undo 1 Vins by Taboola 1 Vin ouline 1 Vin ouline auf 1 Vin ouline auf 1 Vin ouline auf",
+        "image_caption_en": "a close up of a book with a glass of wine on it",
+        "image_caption_de": "eine Nahaufnahme eines Buches mit einem Glas Wein darauf",
+        "combined_description": "Taboola is the world's leading discovery & native advertising platform that helps people explore what's interesting and new in the moment of next. VINONIA - Der Wein Marktplatz! - Kaufen Sie online Wein einfach, schnell und direkt Ab Hof bei unseren Winzer \u00c3\u00bcber unseren Wein online shop!"
+    },
+    {
+        "similarity": 0.7604753375053406,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "youtube.com"
+            }
+        ],
+        "publisher_name": "https://der-postillon.com/",
+        "body_text": "Sommelier gibt zu: Alle Weine schmecken exakt gleich",
+        "screenshot_entropy": 6.217427125647768,
+        "screenshot": "0_3.png",
+        "scraper_proxy_name": "Sofia",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-06-07/Fine_art/der-postillon.com/26299bafecc349e5",
+        "hash_value": "3e433ca4041917b1",
+        "day": "2023-06-07",
+        "timestamp": "2023-06-07T01:02:19.857982",
+        "_index": "ads_fine_art",
+        "_id": "26299bafecc349e5_0_3",
+        "_score": 0,
+        "keywords": [
+            "Sommelier",
+            "Weine"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-06-07/Fine_art/der-postillon.com/26299bafecc349e5/0_3.png",
+        "wein_kaufen": false,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "A Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. In",
+        "image_caption_en": "a close up of a person holding a wine glass in front of a bar",
+        "image_caption_de": "eine Nahaufnahme einer Person, die ein Weinglas vor einer Bar h\u00e4lt",
+        "combined_description": "Auf YouTube findest du die angesagtesten Videos und Tracks. Au\u00dferdem kannst du eigene Inhalte hochladen und mit Freunden oder gleich der ganzen Welt teilen."
+    },
+    {
+        "similarity": 0.7590689063072205,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "gute-weine.de"
+            },
+            {
+                "advertiser.domain_name": "gute-weine.de"
+            },
+            {
+                "advertiser.domain_name": "gute-weine.de"
+            },
+            {
+                "advertiser.domain_name": "criteo.com"
+            },
+            {
+                "advertiser.domain_name": "gute-weine.de"
+            },
+            {
+                "advertiser.domain_name": "gute-weine.de"
+            },
+            {
+                "advertiser.domain_name": "gute-weine.de"
+            },
+            {
+                "advertiser.domain_name": "gute-weine.de"
+            }
+        ],
+        "publisher_name": "https://vesti.bg/",
+        "body_text": "Horst Sauer Silvaner E\u2026\n\n\n\n\n\nTenuta San Guido Guidalber\u2026\n\n\n\n\n\nReichsrat von Buhl Riesling F\u2026\n\n\n\n\n\nJ. L. Vergnon Champag\u2026\n\n\n\n\n\nBibi Graetz Testamatta 2018\n\n\n\n\n\nG.D. Vajra Barolo Albe 2019",
+        "screenshot_entropy": 1.7116713877142802,
+        "screenshot": "1_12.png",
+        "scraper_proxy_name": "Berlin",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-05-07/Fine_art/vesti.bg/c78fe1a8dfe84287",
+        "hash_value": "23bb7a3632a80201",
+        "day": "2023-05-07",
+        "timestamp": "2023-05-07T06:09:49.168733",
+        "_index": "ads_fine_art",
+        "_id": "c78fe1a8dfe84287_1_12",
+        "_score": 0,
+        "keywords": [
+            "Horst",
+            "Sauer",
+            "Silvaner",
+            "E",
+            "Tenuta",
+            "San",
+            "Guido",
+            "Guidalber",
+            "Reichsrat",
+            "Buhl",
+            "Riesling",
+            "F",
+            "J.",
+            "L.",
+            "Vergnon",
+            "Champag",
+            "Bibi",
+            "Graetz",
+            "Testamatta",
+            "G.D.",
+            "Vajra",
+            "Barolo",
+            "Albe"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-05-07/Fine_art/vesti.bg/c78fe1a8dfe84287/1_12.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "6m2 Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int. Int",
+        "image_caption_en": "a close up of a row of different colored baseball bats",
+        "image_caption_de": "eine Nahaufnahme einer Reihe von verschiedenen farbigen Baseballschl\u00e4gern",
+        "combined_description": "Premium Weine entdecken und online kaufen bei Lobenbergs GUTE WEINE \u27a8 Deutschlands bestem Weinh\u00e4ndler 2022 \u2713 Hier finden Sie \u00fcber 6.000 Weine von mehr als 850 der besten Winzer der Welt \u2713 Lobenberg bieten Ihnen ausserdem spannende Geschichten und Hintergrundinformationen aus der Welt des Weins \u2713 Premium Weine entdecken und online kaufen bei Lobenbergs GUTE WEINE \u27a8 Deutschlands bestem Weinh\u00e4ndler 2022 \u2713 Hier finden Sie \u00fcber 6.000 Weine von mehr als 850 der besten Winzer der Welt \u2713 Lobenberg bieten Ihnen ausserdem spannende Geschichten und Hintergrundinformationen aus der Welt des Weins \u2713 Premium Weine entdecken und online kaufen bei Lobenbergs GUTE WEINE \u27a8 Deutschlands bestem Weinh\u00e4ndler 2022 \u2713 Hier finden Sie \u00fcber 6.000 Weine von mehr als 850 der besten Winzer der Welt \u2713 Lobenberg bieten Ihnen ausserdem spannende Geschichten und Hintergrundinformationen aus der Welt des Weins \u2713 Activate the world\u2019s largest set of commerce data to bring richer experiences to consumers with our Commerce Media Platform. Premium Weine entdecken und online kaufen bei Lobenbergs GUTE WEINE \u27a8 Deutschlands bestem Weinh\u00e4ndler 2022 \u2713 Hier finden Sie \u00fcber 6.000 Weine von mehr als 850 der besten Winzer der Welt \u2713 Lobenberg bieten Ihnen ausserdem spannende Geschichten und Hintergrundinformationen aus der Welt des Weins \u2713 Premium Weine entdecken und online kaufen bei Lobenbergs GUTE WEINE \u27a8 Deutschlands bestem Weinh\u00e4ndler 2022 \u2713 Hier finden Sie \u00fcber 6.000 Weine von mehr als 850 der besten Winzer der Welt \u2713 Lobenberg bieten Ihnen ausserdem spannende Geschichten und Hintergrundinformationen aus der Welt des Weins \u2713 Premium Weine entdecken und online kaufen bei Lobenbergs GUTE WEINE \u27a8 Deutschlands bestem Weinh\u00e4ndler 2022 \u2713 Hier finden Sie \u00fcber 6.000 Weine von mehr als 850 der besten Winzer der Welt \u2713 Lobenberg bieten Ihnen ausserdem spannende Geschichten und Hintergrundinformationen aus der Welt des Weins \u2713 Premium Weine entdecken und online kaufen bei Lobenbergs GUTE WEINE \u27a8 Deutschlands bestem Weinh\u00e4ndler 2022 \u2713 Hier finden Sie \u00fcber 6.000 Weine von mehr als 850 der besten Winzer der Welt \u2713 Lobenberg bieten Ihnen ausserdem spannende Geschichten und Hintergrundinformationen aus der Welt des Weins \u2713"
+    },
+    {
+        "similarity": 0.7590295672416687,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "criteo.com"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            },
+            {
+                "advertiser.domain_name": "weinclub.ch"
+            }
+        ],
+        "publisher_name": "https://newsnow.co.uk/",
+        "body_text": "MEHR SEHEN",
+        "screenshot_entropy": 2.1288476315297227,
+        "screenshot": "0_0.png",
+        "scraper_proxy_name": "Zurich",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-05-05/Fine_art/newsnow.co.uk/254a59a541f046b1",
+        "hash_value": "e6f6ad561bf8d0bb",
+        "day": "2023-05-05",
+        "timestamp": "2023-05-05T11:37:49.558249",
+        "_index": "ads_fine_art",
+        "_id": "254a59a541f046b1_0_0",
+        "_score": 0,
+        "keywords": [
+            "SEHEN"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-05-05/Fine_art/newsnow.co.uk/254a59a541f046b1/0_0.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "Aux Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour Labour",
+        "image_caption_en": "a close up of a bunch of bottles of wine with a wine glass",
+        "image_caption_de": "eine Nahaufnahme einer Flasche Wein mit einem Weinglas",
+        "combined_description": "Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Activate the world\u2019s largest set of commerce data to bring richer experiences to consumers with our Commerce Media Platform. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert. Entdecken Sie die besten Weine zu attraktiven Preisen auf\u00a0Weinclub.ch\u00a0- heute bestellt, \u00fcbermorgen geliefert."
+    },
+    {
+        "similarity": 0.7523630261421204,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "doubleclick.net"
+            }
+        ],
+        "publisher_name": "https://www.bazonline.ch/",
+        "body_text": "TAGESDEAL\n14\nStd.\n8\nMin.\n15\nSek.\njetzt\n20 % Rabatt\n20 % auf alle Weine und Lindt-Produkte\nAuch auf bestehende Aktionspreise!",
+        "screenshot_entropy": 4.326507326792627,
+        "screenshot": "0_1.png",
+        "scraper_proxy_name": "London",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-05-26/Pop_music/www.bazonline.ch/1976d3f12d2a4de3",
+        "hash_value": "4858502dd3bd8948",
+        "day": "2023-05-26",
+        "timestamp": "2023-05-26T19:51:49.535125",
+        "_index": "ads_pop_music",
+        "_id": "1976d3f12d2a4de3_0_1",
+        "_score": 0,
+        "keywords": [
+            "TAGESDEAL",
+            "Min",
+            "Sek",
+            "%",
+            "Rabatt",
+            "%",
+            "Weine",
+            "Lindt-Produkte",
+            "Aktionspreise"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-05-26/Pop_music/www.bazonline.ch/1976d3f12d2a4de3/0_1.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "20\u2030 Rabatt Auch auf bestehende Aktionsprise 14 8 11",
+        "image_caption_en": "a close up of a bottle of wine and a bottle of wine on a table",
+        "image_caption_de": "eine Nahaufnahme einer Flasche Wein und eine Flasche Wein auf einem Tisch",
+        "combined_description": "Google Marketing Platform offers an enterprise analytics solution to gain insights into your advertising, marketing, customers, and sales."
+    },
+    {
+        "similarity": 0.7523137331008911,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "doubleclick.net"
+            }
+        ],
+        "publisher_name": "https://www.tagesanzeiger.ch/",
+        "body_text": "TAGESDEAL\n8\nStd.\n0\nMin.\n5\nSek.\njetzt\n20 % Rabatt\n20 % auf alle Weine und Lindt-Produkte\nAuch auf bestehende Aktionspreise!",
+        "screenshot_entropy": 4.336321209614971,
+        "screenshot": "1_1.png",
+        "scraper_proxy_name": "London",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-05-27/Motherhood/www.tagesanzeiger.ch/04fa2bdc8db14181",
+        "hash_value": "0ac5bda7c6fd2880",
+        "day": "2023-05-27",
+        "timestamp": "2023-05-27T01:59:58.769475",
+        "_index": "ads_motherhood",
+        "_id": "04fa2bdc8db14181_1_1",
+        "_score": 0,
+        "keywords": [
+            "TAGESDEAL",
+            "Std.",
+            "Min",
+            "Sek",
+            "%",
+            "Rabatt",
+            "%",
+            "Weine",
+            "Lindt-Produkte",
+            "Aktionspreise"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-05-27/Motherhood/www.tagesanzeiger.ch/04fa2bdc8db14181/1_1.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "20\u2030 Rabatt Auch auf bestehende Aktionsprise 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030",
+        "image_caption_en": "a close up of a bottle of wine and a bottle of wine",
+        "image_caption_de": "eine Nahaufnahme einer Flasche Wein und eine Flasche Wein",
+        "combined_description": "Google Marketing Platform offers an enterprise analytics solution to gain insights into your advertising, marketing, customers, and sales."
+    },
+    {
+        "similarity": 0.7518393993377686,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "doubleclick.net"
+            }
+        ],
+        "publisher_name": "https://www.tagesanzeiger.ch/",
+        "body_text": "TAGESDEAL\n8\nStd.\n1\nMin.\n4\nSek.\njetzt\n20 % Rabatt\n20 % auf alle Weine und Lindt-Produkte\nAuch auf bestehende Aktionspreise!",
+        "screenshot_entropy": 4.336379186702412,
+        "screenshot": "0_1.png",
+        "scraper_proxy_name": "London",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-05-27/Motherhood/www.tagesanzeiger.ch/04fa2bdc8db14181",
+        "hash_value": "b8024054ce75214f",
+        "day": "2023-05-27",
+        "timestamp": "2023-05-27T01:58:59.565336",
+        "_index": "ads_motherhood",
+        "_id": "04fa2bdc8db14181_0_1",
+        "_score": 0,
+        "keywords": [
+            "TAGESDEAL",
+            "Std.",
+            "Min",
+            "Sek",
+            "%",
+            "Rabatt",
+            "%",
+            "Weine",
+            "Lindt-Produkte",
+            "Aktionspreise"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-05-27/Motherhood/www.tagesanzeiger.ch/04fa2bdc8db14181/0_1.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "20\u2030 Rabat Auch auf bestehende Aktionsprise 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030",
+        "image_caption_en": "a close up of a bottle of wine and a bottle of wine on a table",
+        "image_caption_de": "eine Nahaufnahme einer Flasche Wein und eine Flasche Wein auf einem Tisch",
+        "combined_description": "Google Marketing Platform offers an enterprise analytics solution to gain insights into your advertising, marketing, customers, and sales."
+    },
+    {
+        "similarity": 0.7517685890197754,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "criteo.com"
+            },
+            {
+                "advertiser.domain_name": "gute-weine.de"
+            },
+            {
+                "advertiser.domain_name": "gute-weine.de"
+            },
+            {
+                "advertiser.domain_name": "gute-weine.de"
+            },
+            {
+                "advertiser.domain_name": "gute-weine.de"
+            }
+        ],
+        "publisher_name": "https://www.manchestereveningnews.co.uk/",
+        "body_text": "J. B. Becker Riesling Wallufer Walkenberg Kabinett trocken 2020\n14 \u20ac\n\n\nMonte Antico Monte Antico 2019\n9,90 \u20ac\n\n\nLe Pin Chateau Le Pin 2015\n4.999 \u20ac",
+        "screenshot_entropy": 1.5140249833261525,
+        "screenshot": "1_5.png",
+        "scraper_proxy_name": "Berlin",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-06-01/Fine_art/www.manchestereveningnews.co.uk/6045187060604b81",
+        "hash_value": "0daeca544d275580",
+        "day": "2023-06-01",
+        "timestamp": "2023-05-31T22:55:48.316054",
+        "_index": "ads_fine_art",
+        "_id": "6045187060604b81_1_5",
+        "_score": 0,
+        "keywords": [
+            "J.",
+            "B.",
+            "Becker",
+            "Riesling",
+            "Wallufer",
+            "Walkenberg",
+            "Kabinett",
+            "\u20ac",
+            "Monte",
+            "Antico",
+            "Monte",
+            "Antico",
+            "\u20ac",
+            "Le",
+            "Pin",
+            "Chateau",
+            "Le",
+            "Pin",
+            "\u20ac"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-06-01/Fine_art/www.manchestereveningnews.co.uk/6045187060604b81/1_5.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "8 restaurantes 8 restaurantes Aux",
+        "image_caption_en": "three different types of toothbrushes are lined up in a row",
+        "image_caption_de": "drei verschiedene Arten von Zahnb\u00fcrsten sind in einer Reihe aufgereiht",
+        "combined_description": "Activate the world\u2019s largest set of commerce data to bring richer experiences to consumers with our Commerce Media Platform. Premium Weine entdecken und online kaufen bei Lobenbergs GUTE WEINE \u27a8 Deutschlands bestem Weinh\u00e4ndler 2022 \u2713 Hier finden Sie \u00fcber 6.000 Weine von mehr als 850 der besten Winzer der Welt \u2713 Lobenberg bieten Ihnen ausserdem spannende Geschichten und Hintergrundinformationen aus der Welt des Weins \u2713 Premium Weine entdecken und online kaufen bei Lobenbergs GUTE WEINE \u27a8 Deutschlands bestem Weinh\u00e4ndler 2022 \u2713 Hier finden Sie \u00fcber 6.000 Weine von mehr als 850 der besten Winzer der Welt \u2713 Lobenberg bieten Ihnen ausserdem spannende Geschichten und Hintergrundinformationen aus der Welt des Weins \u2713 Premium Weine entdecken und online kaufen bei Lobenbergs GUTE WEINE \u27a8 Deutschlands bestem Weinh\u00e4ndler 2022 \u2713 Hier finden Sie \u00fcber 6.000 Weine von mehr als 850 der besten Winzer der Welt \u2713 Lobenberg bieten Ihnen ausserdem spannende Geschichten und Hintergrundinformationen aus der Welt des Weins \u2713 Premium Weine entdecken und online kaufen bei Lobenbergs GUTE WEINE \u27a8 Deutschlands bestem Weinh\u00e4ndler 2022 \u2713 Hier finden Sie \u00fcber 6.000 Weine von mehr als 850 der besten Winzer der Welt \u2713 Lobenberg bieten Ihnen ausserdem spannende Geschichten und Hintergrundinformationen aus der Welt des Weins \u2713"
+    },
+    {
+        "similarity": 0.7501628994941711,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "doubleclick.net"
+            }
+        ],
+        "publisher_name": "https://www.bazonline.ch/",
+        "body_text": "TAGESDEAL\n11\nStd.\n1\nMin.\n32\nSek.\njetzt\n20 % Rabatt\n20 % auf alle Weine und Lindt-Produkte\nAuch auf bestehende Aktionspreise!",
+        "screenshot_entropy": 4.3266386178539555,
+        "screenshot": "0_1.png",
+        "scraper_proxy_name": "Zurich",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-05-27/Pet_food/www.bazonline.ch/6808010252934a3e",
+        "hash_value": "925b0863e5e28e49",
+        "day": "2023-05-27",
+        "timestamp": "2023-05-26T22:58:31.923354",
+        "_index": "ads_pet_food",
+        "_id": "6808010252934a3e_0_1",
+        "_score": 0,
+        "keywords": [
+            "TAGESDEAL",
+            "Std.",
+            "Min",
+            "Sek",
+            "%",
+            "Rabatt",
+            "%",
+            "Weine",
+            "Lindt-Produkte",
+            "Aktionspreise"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-05-27/Pet_food/www.bazonline.ch/6808010252934a3e/0_1.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "20\u2030 Rabatt Auch auf bestehende Aktionsprise 28",
+        "image_caption_en": "a close up of a bottle of wine and a bottle of wine on a table",
+        "image_caption_de": "eine Nahaufnahme einer Flasche Wein und eine Flasche Wein auf einem Tisch",
+        "combined_description": "Google Marketing Platform offers an enterprise analytics solution to gain insights into your advertising, marketing, customers, and sales."
+    },
+    {
+        "similarity": 0.7494891881942749,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "korkenfreunde.at"
+            }
+        ],
+        "publisher_name": "https://hotnews.bg/",
+        "body_text": "Fachmagazine empfehlen dieses Weinabo\nKorkenfreunde\nMehr erfahren",
+        "screenshot_entropy": 3.41550594268276,
+        "screenshot": "0_1.png",
+        "scraper_proxy_name": "Vienna",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-06-24/Pet_food/hotnews.bg/39c4eb58c00c4a89",
+        "hash_value": "860a757986b58b97",
+        "day": "2023-06-24",
+        "timestamp": "2023-06-24T12:05:01.616363",
+        "_index": "ads_pet_food",
+        "_id": "39c4eb58c00c4a89_0_1",
+        "_score": 0,
+        "keywords": [
+            "Fachmagazine",
+            "Weinabo",
+            "Korkenfreunde"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-06-24/Pet_food/hotnews.bg/39c4eb58c00c4a89/0_1.png",
+        "wein_kaufen": false,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "Weinabo empfehlen dieses Fachmagazine empfehlen dieses Fachmagazine empfehlen dieses Weinabo Fachmagazine empfehlen dieses Fachmagazine empfehlen dieses Weinabo 26. Mehr erfahren 26. Fachmagazine empfehlen dieses 26. Emphagazine empfehlen dieses Weinabo 26. Emphagazine empfehlen dieses 26. Emphagazine empfehlen dieses 26. Emphagazine 26. Emphagazine 26. Emphagazine 26. Emphagazine 26. Emphagazine 26. Emphagas 26. Emphagas 26. Emphagas 26. Emphagas 26. Emphagas 26. Emphagas 26. Emphagas 26. Emphagas 26. Emphagas 26. Emphagas 26. Emphagas 26. Emphagas 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0",
+        "image_caption_en": "a close up of a bottle of wine on a table",
+        "image_caption_de": "eine Nahaufnahme einer Flasche Wein auf einem Tisch",
+        "combined_description": "Monatlich 3 Weine aus einem \u00f6sterreichischen Weinbaugebiet, ebenso eignet sich das Weinabo auch als perfektes Geschenk f\u00fcr jeden Weinliebhaber."
+    },
+    {
+        "similarity": 0.749321460723877,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "doubleclick.net"
+            }
+        ],
+        "publisher_name": "https://www.tagesanzeiger.ch/",
+        "body_text": "TAGESDEAL\n9\nStd.\n56\nMin.\n45\nSek.\njetzt\n20 % Rabatt\n20 % auf alle Weine und Lindt-Produkte\nAuch auf bestehende Aktionspreise!",
+        "screenshot_entropy": 4.339544918745443,
+        "screenshot": "1_0.png",
+        "scraper_proxy_name": "Berlin",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-05-27/Fine_art/www.tagesanzeiger.ch/d158a286998544ad",
+        "hash_value": "e544e41598ee3c9f",
+        "day": "2023-05-27",
+        "timestamp": "2023-05-27T00:03:19.166481",
+        "_index": "ads_fine_art",
+        "_id": "d158a286998544ad_1_0",
+        "_score": 0,
+        "keywords": [
+            "TAGESDEAL",
+            "Std.",
+            "Min",
+            "Sek",
+            "%",
+            "Rabatt",
+            "%",
+            "Weine",
+            "Lindt-Produkte",
+            "Aktionspreise"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-05-27/Fine_art/www.tagesanzeiger.ch/d158a286998544ad/1_0.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "20\u2030 Rabatt Auch auf bestehende Aktionsprise 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030",
+        "image_caption_en": "a close up of a bottle of wine and a bottle of wine on a table",
+        "image_caption_de": "eine Nahaufnahme einer Flasche Wein und eine Flasche Wein auf einem Tisch",
+        "combined_description": "Google Marketing Platform offers an enterprise analytics solution to gain insights into your advertising, marketing, customers, and sales."
+    },
+    {
+        "similarity": 0.7485653162002563,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "doubleclick.net"
+            }
+        ],
+        "publisher_name": "https://www.bazonline.ch/",
+        "body_text": "TAGESDEAL\n6\nStd.\n45\nMin.\n57\nSek.\njetzt\n20 % Rabatt\n20 % auf alle Weine und Lindt-Produkte\nAuch auf bestehende Aktionspreise!",
+        "screenshot_entropy": 4.327296491542547,
+        "screenshot": "1_0.png",
+        "scraper_proxy_name": "Vienna",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-05-27/Motherhood/www.bazonline.ch/d4c056c46e2e4535",
+        "hash_value": "f965f937180ba5a2",
+        "day": "2023-05-27",
+        "timestamp": "2023-05-27T03:14:07.469626",
+        "_index": "ads_motherhood",
+        "_id": "d4c056c46e2e4535_1_0",
+        "_score": 0,
+        "keywords": [
+            "TAGESDEAL",
+            "Std.",
+            "Min",
+            "Sek",
+            "%",
+            "Rabatt",
+            "%",
+            "Weine",
+            "Lindt-Produkte",
+            "Aktionspreise"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-05-27/Motherhood/www.bazonline.ch/d4c056c46e2e4535/1_0.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "20\u2030 Rabatt Auch auf bestehende Aktionsprise 25",
+        "image_caption_en": "a close up of a bottle of wine and a bottle of wine on a table",
+        "image_caption_de": "eine Nahaufnahme einer Flasche Wein und eine Flasche Wein auf einem Tisch",
+        "combined_description": "Google Marketing Platform offers an enterprise analytics solution to gain insights into your advertising, marketing, customers, and sales."
+    },
+    {
+        "similarity": 0.746436595916748,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "korkenfreunde.at"
+            }
+        ],
+        "publisher_name": "https://hotnews.bg/",
+        "body_text": "Fachmagazine empfehlen dieses Weinabo\nKorkenfreunde\nMehr erfahren",
+        "screenshot_entropy": 3.067769902981256,
+        "screenshot": "1_0.png",
+        "scraper_proxy_name": "Vienna",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-05-29/Motherhood/hotnews.bg/e8e52009ae7349f5",
+        "hash_value": "860a757986b58b97",
+        "day": "2023-05-29",
+        "timestamp": "2023-05-29T16:49:28.356310",
+        "_index": "ads_motherhood",
+        "_id": "e8e52009ae7349f5_1_0",
+        "_score": 0,
+        "keywords": [
+            "Fachmagazine",
+            "Weinabo",
+            "Korkenfreunde"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-05-29/Motherhood/hotnews.bg/e8e52009ae7349f5/1_0.png",
+        "wein_kaufen": false,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "Weinabo empfehlen dieses Fachmagazine empfehlen dieses Fachmagazine empfehlen dieses Weinabo Fachmagazine empfehlen dieses Fachmagazine empfehlen dieses Weinabo Fachmagazine empfehlen dieses 26. Markenfreunde Mehr erfahren 26. Mehr erfahren 26. Fachmagazine ampfehlen dieses 26. Emphagazine empfehlen dieses 26. Emphagazine empfehlen dieses 26. Emphagazine 26. Emphagazine 26. Emphagazine 26. Emphagazine 26. Emphagas 26. Emphagas 26. Emphagas 26. Emphagas 26. Emphagas 26. Emphagas 26. Emphagas 26. Emphagas 26. Emphagas 26. Emphagas 26. Emphagas 26. Emphagas 26. Emphas 26. Emphas 26. Emphas 26. Emphas 26. Emphas 26. Emphas 26. Emphas 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.0 26.",
+        "image_caption_en": "a close up of a bottle of wine and a box of wine",
+        "image_caption_de": "eine Nahaufnahme einer Flasche Wein und eine Schachtel Wein",
+        "combined_description": "Monatlich 3 Weine aus einem \u00f6sterreichischen Weinbaugebiet, ebenso eignet sich das Weinabo auch als perfektes Geschenk f\u00fcr jeden Weinliebhaber."
+    },
+    {
+        "similarity": 0.745078444480896,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "doubleclick.net"
+            }
+        ],
+        "publisher_name": "https://www.bazonline.ch/",
+        "body_text": "TAGESDEAL\n11\nStd.\n0\nMin.\n49\nSek.\njetzt\n20 % Rabatt\n20 % auf alle Weine und Lindt-Produkte\nAuch auf bestehende Aktionspreise!",
+        "screenshot_entropy": 4.327054306237101,
+        "screenshot": "1_0.png",
+        "scraper_proxy_name": "Zurich",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-05-27/Pet_food/www.bazonline.ch/6808010252934a3e",
+        "hash_value": "5510abe9951efbe3",
+        "day": "2023-05-27",
+        "timestamp": "2023-05-26T22:59:14.742067",
+        "_index": "ads_pet_food",
+        "_id": "6808010252934a3e_1_0",
+        "_score": 0,
+        "keywords": [
+            "TAGESDEAL",
+            "Min",
+            "Sek",
+            "%",
+            "Rabatt",
+            "%",
+            "Weine",
+            "Lindt-Produkte",
+            "Aktionspreise"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-05-27/Pet_food/www.bazonline.ch/6808010252934a3e/1_0.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "20\u2030 Rabatt Auch auf bestehende Aktionsprise 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030 Rabatt 20\u2030",
+        "image_caption_en": "a close up of a bottle of wine and a bottle of wine on a table",
+        "image_caption_de": "eine Nahaufnahme einer Flasche Wein und eine Flasche Wein auf einem Tisch",
+        "combined_description": "Google Marketing Platform offers an enterprise analytics solution to gain insights into your advertising, marketing, customers, and sales."
+    },
+    {
+        "similarity": 0.7428356409072876,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "doubleclick.net"
+            }
+        ],
+        "publisher_name": "http://derbund.ch/",
+        "body_text": "TAGESDEAL\n4\nStd.\n23\nMin.\njetzt\n20 % Rabatt\n20 % auf alle Weine und Lindt-Produkte",
+        "screenshot_entropy": 4.299303647925817,
+        "screenshot": "0_1.png",
+        "scraper_proxy_name": "Berlin",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-05-27/Pet_food/derbund.ch/1fb983645a8845ca",
+        "hash_value": "888e4f9e8e8ce80d",
+        "day": "2023-05-27",
+        "timestamp": "2023-05-27T05:36:56.303176",
+        "_index": "ads_pet_food",
+        "_id": "1fb983645a8845ca_0_1",
+        "_score": 0,
+        "keywords": [
+            "TAGESDEAL",
+            "Std.",
+            "Min",
+            "%",
+            "Rabatt",
+            "%",
+            "Weine",
+            "Lindt-Produkte"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-05-27/Pet_food/derbund.ch/1fb983645a8845ca/0_1.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "20 % Rabatt 20 % auf alle Weine und 20 % auf alle Weine und 4 23",
+        "image_caption_en": "a close up of a bottle of wine and a package of wine",
+        "image_caption_de": "eine Nahaufnahme einer Flasche Wein und eine Packung Wein",
+        "combined_description": "Google Marketing Platform offers an enterprise analytics solution to gain insights into your advertising, marketing, customers, and sales."
+    },
+    {
+        "similarity": 0.7426959276199341,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "gute-weine.de"
+            },
+            {
+                "advertiser.domain_name": "gute-weine.de"
+            },
+            {
+                "advertiser.domain_name": "gute-weine.de"
+            },
+            {
+                "advertiser.domain_name": "criteo.com"
+            },
+            {
+                "advertiser.domain_name": "gute-weine.de"
+            },
+            {
+                "advertiser.domain_name": "gute-weine.de"
+            },
+            {
+                "advertiser.domain_name": "gute-weine.de"
+            },
+            {
+                "advertiser.domain_name": "gute-weine.de"
+            }
+        ],
+        "publisher_name": "https://www.liverpoolecho.co.uk/",
+        "body_text": "Bouvet Lad\u2026\nFrankreich Bou\u2026\n\n12,95 \u20ac Clos H\u00e9don\u2026\nFrankreich Clos\u2026\n\n39 \u20ac Kongsgaard\u2026\nUSA Kongsgaa\u2026\n\n99 \u20ac\nFIO Glou Gl\u2026\nDeutschland FI\u2026\n\n16,50 \u20ac Elio Grasso\u2026\nItalien Elio Gras\u2026\n\n85 \u20ac Cour d'Arge\u2026\nFrankreich Cou\u2026\n\n12,50 \u20ac",
+        "screenshot_entropy": 2.2931289028893533,
+        "screenshot": "1_7.png",
+        "scraper_proxy_name": "Berlin",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-05-16/Pop_music/www.liverpoolecho.co.uk/04ccfd042a4d4ce2",
+        "hash_value": "a78ac6ecb6cebfae",
+        "day": "2023-05-16",
+        "timestamp": "2023-05-16T03:38:22.973673",
+        "_index": "ads_pop_music",
+        "_id": "04ccfd042a4d4ce2_1_7",
+        "_score": 0,
+        "keywords": [
+            "Lad",
+            "Frankreich",
+            "Bou",
+            "\u20ac",
+            "Clos",
+            "H\u00e9don",
+            "Frankreich",
+            "Clos",
+            "\u20ac",
+            "Kongsgaard",
+            "USA",
+            "Kongsgaa",
+            "\u20ac",
+            "FIO",
+            "Glou",
+            "Gl",
+            "Deutschland",
+            "FI",
+            "\u20ac",
+            "Elio",
+            "Grasso",
+            "Italien",
+            "Elio",
+            "Gras",
+            "\u20ac",
+            "Cour",
+            "Frankreich",
+            "Cou",
+            "\u20ac"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-05-16/Pop_music/www.liverpoolecho.co.uk/04ccfd042a4d4ce2/1_7.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "Frankfurt Chios Frankreich Bouvet Lad Frankfurteich Bou nan 1650 \u20ac 25 25 25",
+        "image_caption_en": "a close up of a bunch of bottles of wine on a table",
+        "image_caption_de": "eine Nahaufnahme einer Flasche Wein auf einem Tisch",
+        "combined_description": "Premium Weine entdecken und online kaufen bei Lobenbergs GUTE WEINE \u27a8 Deutschlands bestem Weinh\u00e4ndler 2022 \u2713 Hier finden Sie \u00fcber 6.000 Weine von mehr als 850 der besten Winzer der Welt \u2713 Lobenberg bieten Ihnen ausserdem spannende Geschichten und Hintergrundinformationen aus der Welt des Weins \u2713 Premium Weine entdecken und online kaufen bei Lobenbergs GUTE WEINE \u27a8 Deutschlands bestem Weinh\u00e4ndler 2022 \u2713 Hier finden Sie \u00fcber 6.000 Weine von mehr als 850 der besten Winzer der Welt \u2713 Lobenberg bieten Ihnen ausserdem spannende Geschichten und Hintergrundinformationen aus der Welt des Weins \u2713 Premium Weine entdecken und online kaufen bei Lobenbergs GUTE WEINE \u27a8 Deutschlands bestem Weinh\u00e4ndler 2022 \u2713 Hier finden Sie \u00fcber 6.000 Weine von mehr als 850 der besten Winzer der Welt \u2713 Lobenberg bieten Ihnen ausserdem spannende Geschichten und Hintergrundinformationen aus der Welt des Weins \u2713 Activate the world\u2019s largest set of commerce data to bring richer experiences to consumers with our Commerce Media Platform. Premium Weine entdecken und online kaufen bei Lobenbergs GUTE WEINE \u27a8 Deutschlands bestem Weinh\u00e4ndler 2022 \u2713 Hier finden Sie \u00fcber 6.000 Weine von mehr als 850 der besten Winzer der Welt \u2713 Lobenberg bieten Ihnen ausserdem spannende Geschichten und Hintergrundinformationen aus der Welt des Weins \u2713 Premium Weine entdecken und online kaufen bei Lobenbergs GUTE WEINE \u27a8 Deutschlands bestem Weinh\u00e4ndler 2022 \u2713 Hier finden Sie \u00fcber 6.000 Weine von mehr als 850 der besten Winzer der Welt \u2713 Lobenberg bieten Ihnen ausserdem spannende Geschichten und Hintergrundinformationen aus der Welt des Weins \u2713 Premium Weine entdecken und online kaufen bei Lobenbergs GUTE WEINE \u27a8 Deutschlands bestem Weinh\u00e4ndler 2022 \u2713 Hier finden Sie \u00fcber 6.000 Weine von mehr als 850 der besten Winzer der Welt \u2713 Lobenberg bieten Ihnen ausserdem spannende Geschichten und Hintergrundinformationen aus der Welt des Weins \u2713 Premium Weine entdecken und online kaufen bei Lobenbergs GUTE WEINE \u27a8 Deutschlands bestem Weinh\u00e4ndler 2022 \u2713 Hier finden Sie \u00fcber 6.000 Weine von mehr als 850 der besten Winzer der Welt \u2713 Lobenberg bieten Ihnen ausserdem spannende Geschichten und Hintergrundinformationen aus der Welt des Weins \u2713"
+    },
+    {
+        "similarity": 0.742002010345459,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "grube.de"
+            },
+            {
+                "advertiser.domain_name": "outbrain.com"
+            },
+            {
+                "advertiser.domain_name": "gute-weine.de"
+            },
+            {
+                "advertiser.domain_name": "revitive.com"
+            },
+            {
+                "advertiser.domain_name": "autoscout24.de"
+            }
+        ],
+        "publisher_name": "https://stern.de/",
+        "body_text": "ANZEIGE\nRevitive DE\nSchwere Beine oder Kr\u00e4mpfe?\nANZEIGE\nGute-Weine\nClos Manou Chateau Clos Manou 2022\nANZEIGE\nGRUBE\nAnbaus\u00e4gewerk\nANZEIGE\nAutoScout24 DE\nAudi A5 | 8.500 \u20ac",
+        "screenshot_entropy": 3.293165703672009,
+        "screenshot": "1_33.png",
+        "scraper_proxy_name": "Berlin",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-06-29/Pet_food/stern.de/8853767d00334d70",
+        "hash_value": "0bafb70d446b8a9f",
+        "day": "2023-06-29",
+        "timestamp": "2023-06-29T17:53:33.519191",
+        "_index": "ads_pet_food",
+        "_id": "8853767d00334d70_1_33",
+        "_score": 0,
+        "keywords": [
+            "ANZEIGE",
+            "Revitive",
+            "DE",
+            "Beine",
+            "Kr\u00e4mpfe",
+            "ANZEIGE",
+            "Gute-Weine",
+            "Clos",
+            "Manou",
+            "Manou",
+            "ANZEIGE",
+            "GRUBE",
+            "Anbaus\u00e4gewerk",
+            "ANZEIGE",
+            "AutoScout24",
+            "DE",
+            "Audi",
+            "A5",
+            "\u20ac"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-06-29/Pet_food/stern.de/8853767d00334d70/1_33.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "Chime G\u00e9n\u00e9ne G\u00e9n\u00e9ne AutoScour24 DE 26 Quane Beine oder Clos Manou Chateau Clos Anbaus\u00e8gewerk 24 DE 26 Quane Beine oder Clos Manou Chateau Clos Anbaus\u00e8gewerk 24 DE 26 Quane Beine oder Clos Manou Chateau Clos Anbaus\u00e0gewerk 24 DE",
+        "image_caption_en": "several different types of wine bottles and a car are shown",
+        "image_caption_de": "verschiedene Arten von Weinflaschen und ein Auto werden gezeigt",
+        "combined_description": "Alles rund um Forst, Jagd, Outdoor, Garten & Freizeit \u2714 Hochwertige Qualit\u00e4t & Marken \u27a4 Jetzt bei der Grube KG entdecken! Outbrain connects businesses with engaged audiences, using AI prediction technology to drive better marketing and publisher results. Premium Weine entdecken und online kaufen bei Lobenbergs GUTE WEINE \u27a8 Deutschlands bestem Weinh\u00e4ndler 2022 \u2713 Hier finden Sie \u00fcber 6.000 Weine von mehr als 850 der besten Winzer der Welt \u2713 Lobenberg bieten Ihnen ausserdem spannende Geschichten und Hintergrundinformationen aus der Welt des Weins \u2713 Haben Sie Schmerzen in den Beinen oder wunde und empfindliche F\u00fc\u00dfe? Der Revitive Durchblutungs-Simulator lindert Schmerzen und Schwellungen. Neu- und Gebrauchtwagen sowie Motorr\u00e4der, Wohnmobile und Nutzfahrzeuge finden Sie auf AutoScout24, dem europaweit gr\u00f6\u00dften Online-Automarkt."
+    },
+    {
+        "similarity": 0.7410728335380554,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "doubleclick.net"
+            }
+        ],
+        "publisher_name": "https://www.tagesanzeiger.ch/",
+        "body_text": "TAGESDEAL\n9\nStd.\n57\nMin.\n47\nSek.\njetzt\n20 % Rabatt\n20 % auf alle Weine und Lindt-Produkte\nAuch auf bestehende Aktionspreise!",
+        "screenshot_entropy": 4.339270609466711,
+        "screenshot": "0_1.png",
+        "scraper_proxy_name": "Berlin",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-05-27/Fine_art/www.tagesanzeiger.ch/d158a286998544ad",
+        "hash_value": "fd88091baca89adf",
+        "day": "2023-05-27",
+        "timestamp": "2023-05-27T00:02:16.303257",
+        "_index": "ads_fine_art",
+        "_id": "d158a286998544ad_0_1",
+        "_score": 0,
+        "keywords": [
+            "TAGESDEAL",
+            "Std.",
+            "Min",
+            "Sek",
+            "%",
+            "Rabatt",
+            "%",
+            "Weine",
+            "Lindt-Produkte",
+            "Aktionspreise"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-05-27/Fine_art/www.tagesanzeiger.ch/d158a286998544ad/0_1.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "20\u2030 Rabatt Auch auf bestehende Aktionsprise 20% Rabatt 27.",
+        "image_caption_en": "a close up of a bottle of wine and a bottle of wine on a table",
+        "image_caption_de": "eine Nahaufnahme einer Flasche Wein und eine Flasche Wein auf einem Tisch",
+        "combined_description": "Google Marketing Platform offers an enterprise analytics solution to gain insights into your advertising, marketing, customers, and sales."
+    },
+    {
+        "similarity": 0.7404474020004272,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "doubleclick.net"
+            }
+        ],
+        "publisher_name": "https://www.bazonline.ch/",
+        "body_text": "TAGESDEAL\n2\nStd.\n52\nMin.\n50\nSek.\njetzt\n20 % Rabatt\n20 % auf alle Weine und Lindt-Produkte\nAuch auf bestehende Aktionspreise!",
+        "screenshot_entropy": 4.327765386109506,
+        "screenshot": "0_1.png",
+        "scraper_proxy_name": "Sofia",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-05-27/Pet_food/www.bazonline.ch/4c713a0133d74fc4",
+        "hash_value": "8143279a5117f4b7",
+        "day": "2023-05-27",
+        "timestamp": "2023-05-27T07:07:13.422818",
+        "_index": "ads_pet_food",
+        "_id": "4c713a0133d74fc4_0_1",
+        "_score": 0,
+        "keywords": [
+            "TAGESDEAL",
+            "Std.",
+            "Min",
+            "Sek",
+            "%",
+            "Rabatt",
+            "%",
+            "Weine",
+            "Lindt-Produkte",
+            "Aktionspreise"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-05-27/Pet_food/www.bazonline.ch/4c713a0133d74fc4/0_1.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "20\u2030 Rabatt Auch auf bestehende Aktionsprise 2 52 47 2 52 47 2 52 47",
+        "image_caption_en": "a close up of a bottle of wine and a bottle of wine on a table",
+        "image_caption_de": "eine Nahaufnahme einer Flasche Wein und eine Flasche Wein auf einem Tisch",
+        "combined_description": "Google Marketing Platform offers an enterprise analytics solution to gain insights into your advertising, marketing, customers, and sales."
+    },
+    {
+        "similarity": 0.7373318672180176,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "doubleclick.net"
+            }
+        ],
+        "publisher_name": "https://www.bazonline.ch/",
+        "body_text": "TAGESDEAL\n17\nStd.\n1\nMin.\n44\nSek.\njetzt\n20 % Rabatt\n20 % auf alle Weine und Lindt-Produkte\nAuch auf bestehende Aktionspreise!",
+        "screenshot_entropy": 4.326660928216325,
+        "screenshot": "1_0.png",
+        "scraper_proxy_name": "Paris",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-05-26/Motherhood/www.bazonline.ch/efd9f65872e1497e",
+        "hash_value": "5f6a4bf6cdf66691",
+        "day": "2023-05-26",
+        "timestamp": "2023-05-26T16:58:20.113954",
+        "_index": "ads_motherhood",
+        "_id": "efd9f65872e1497e_1_0",
+        "_score": 0,
+        "keywords": [
+            "TAGESDEAL",
+            "Min",
+            "Sek",
+            "%",
+            "Rabatt",
+            "%",
+            "Weine",
+            "Lindt-Produkte",
+            "Aktionspreise"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-05-26/Motherhood/www.bazonline.ch/efd9f65872e1497e/1_0.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "20\u2030 Rabatt Auch auf bestehende Aktionsprise 17 1 40 17 1 40 17 1 40",
+        "image_caption_en": "a close up of a bottle of wine and a bottle of wine on a table",
+        "image_caption_de": "eine Nahaufnahme einer Flasche Wein und eine Flasche Wein auf einem Tisch",
+        "combined_description": "Google Marketing Platform offers an enterprise analytics solution to gain insights into your advertising, marketing, customers, and sales."
+    },
+    {
+        "similarity": 0.7358971238136292,
+        "frame_hrefs_parsed": [
+            {
+                "advertiser.domain_name": "doubleclick.net"
+            }
+        ],
+        "publisher_name": "https://www.bazonline.ch/",
+        "body_text": "TAGESDEAL\n2\nStd.\n52\nMin.\n2\nSek.\njetzt\n20 % Rabatt\n20 % auf alle Weine und Lindt-Produkte\nAuch auf bestehende Aktionspreise!",
+        "screenshot_entropy": 4.327898216686177,
+        "screenshot": "1_0.png",
+        "scraper_proxy_name": "Sofia",
+        "repository": "/home/adbubble/ad-scraper/operations/adsdata/2023-05-27/Pet_food/www.bazonline.ch/4c713a0133d74fc4",
+        "hash_value": "e57072cc5286d3f4",
+        "day": "2023-05-27",
+        "timestamp": "2023-05-27T07:08:02.374297",
+        "_index": "ads_pet_food",
+        "_id": "4c713a0133d74fc4_1_0",
+        "_score": 0,
+        "keywords": [
+            "TAGESDEAL",
+            "Std.",
+            "Min",
+            "%",
+            "Rabatt",
+            "%",
+            "Weine",
+            "Lindt-Produkte",
+            "Aktionspreise"
+        ],
+        "ad_creative_url": "http://ads3-d.adbl.io/static/img/2023-05-27/Pet_food/www.bazonline.ch/4c713a0133d74fc4/1_0.png",
+        "wein_kaufen": true,
+        "guenstiger_Mobilfunktarif": false,
+        "kredit_mit_niedrigen_Zinsen": false,
+        "schnaeppchen_Fluege": false,
+        "sample": true,
+        "predicted_text": "20\u2030 Rabatt Auch auf bestehende Aktionsprise 2 51 58",
+        "image_caption_en": "a close up of a bottle of wine and a bottle of wine on a table",
+        "image_caption_de": "eine Nahaufnahme einer Flasche Wein und eine Flasche Wein auf einem Tisch",
+        "combined_description": "Google Marketing Platform offers an enterprise analytics solution to gain insights into your advertising, marketing, customers, and sales."
+    }
+]
