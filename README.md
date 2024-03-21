@@ -1,13 +1,12 @@
 # Evaluating Semantic Search over an Index of Online Banner Ads
 
-This thesis explores the application of semantic search within the domain of online advertising. By leveraging advanced natural language processing (NLP) techniques, we aim to enhance the precision and relevance of search results in this field.
-
+The goal of this thesis is to evaluate the influence of semantic search technology on search engine, specifically focusing on online banner ads, and comparing its effectiveness to traditional keyword-based searches using Elasticsearch. Semantic search technology aims to understand the semantics, or meaning of queries and advertisement documents, allowing for searches based on the context and meaning of the queries.
 
 ## Technologies Used
 
 We utilized a variety of technologies and models, including but not limited to:
 
-- **NLP Models and Libraries**: DistilBERT, Sentence Transformers
+- **NLP**: Sentence Transformers, Tokenization, Embedding, SpaCy, HuggingFace
 - **Similarity Measures**: Cosine Similarity, FAISS Similarity, Euclidean Distance
 - **Data Normalization and Preprocessing**: Custom normalization techniques for text data
 - **Programming Languages and Tools**: Python, JSON for data handling
@@ -17,28 +16,28 @@ We utilized a variety of technologies and models, including but not limited to:
 Our experiments were focused on comparing different algorithms and models to find the most effective approach for semantic search in our dataset. The main experiments included:
 
 1. **Algorithm Comparison**: We compared the performance of cosine similarity, FAISS similarity, and Euclidean distance in identifying relevant ads.
-2. **Model Effectiveness**: We evaluated the effectiveness of different NLP models, including a German Semantic Comparator, a Multi-Language Efficient Embedder, and DistilBERT, in capturing semantic similarities.
+2. **Model Effectiveness**: We evaluated the effectiveness of different NLP models, including a German Semantic Comparator, a Multi-Language Efficient Embedder in capturing semantic similarities.
 3. **Impact of Data Normalization**: We assessed the impact of data preprocessing and normalization on the quality of search results.
 
 ## Achievements
 
 Our experiments led to several key findings:
 
-- The German Semantic Comparator model, combined with cosine similarity, provided the most relevant search results for queries related to German-language ads.
-- Data normalization did not improved the accuracy of semantic search by standardizing the input data.
+- German Semantic Comparator model significantly surpasses the performance of the MultiLang Efficient Embedder model.
+- Data preprocessing techniques, such as stemming, removing stop words, and tok- enization, may contribute to the loss of semantic meaning.
 - Cosine similarity offered a good accuracy for advertisment datasets.
-
 
 ## Conclusion
 
-This thesis presents a comprehensive analysis of semantic search technologies in the context of online advertising. Through our experiments, we've demonstrated the potential of NLP and similarity algorithms in improving ad relevance and user experience. Our findings contribute valuable insights into the field of semantic search, offering a foundation for future research and development.
+Our initial aim was to apply evaluation method based on semantic search over an index of online banner ads and evaluate it against various experiments to examine the impact of different criteria, such as data preprocessing, various SBERT models, different similarity metrics, and various features. The main idea was to use an SBERT model, trained on datasets for semantic similarity and clustering tasks, to feed it with features (inputs) to generate a vector (embedding). This embedding is then compared with the embedding of the query using a similarity algorithm to return the ads with the highest similarities.
+Throughout this thesis, we observed how different experiments affected semantic search. We noted that data preprocessing techniques (such as tokenization, stemming, etc.) reduced the relevance of ads compared to experiments where no data preprocessing was applied. This suggests that data preprocessing can sometimes result in the loss of sentence meaning. Moreover, the choice of model was crucial, as it significantly impacted the ability to capture semantics. In some cases, the MultiLang Efficient Embedder struggled to process the semantics of the ads compared to the German Semantic Comparator, which was trained specifically on the German language and tasks like semantic search and clustering. It generates a more dimensional embedding with 1024 dimensions, whereas the MultiLang Efficient Embedder produces only a 768-dimensional embedding, which may not capture the full semantic meaning of the sentences as effectively.
+Semantic search has enhanced the traditional keyword-matching search engine by retrieving more relevant ads, increasing accuracy by up to 10%, 90% depending on the threshold and query complexity.
 
 ## Reference to the Experiments used in this thesis
+
 [Experiments List](./experiments/README.md)
 
-
 ## Getting Started
-
 
 ## Setting Up a Virtual Environment
 
@@ -46,19 +45,19 @@ Before installing the project dependencies, it's recommended to set up a virtual
 
 ### Creating a Virtual Environment
 
-   Run the following command to create a virtual environment named `venv` within the project directory. You can replace `venv` with any name you prefer for your virtual environment.
+Run the following command to create a virtual environment named `venv` within the project directory. You can replace `venv` with any name you prefer for your virtual environment.
 
-   - On macOS and Linux:
+- On macOS and Linux:
 
-     ```
-     python3 -m venv venv
-     ```
+  ```
+  python3 -m venv venv
+  ```
 
-   - On Windows:
+- On Windows:
 
-     ```
-     python -m venv venv
-     ```
+  ```
+  python -m venv venv
+  ```
 
 ### Activating the Virtual Environment
 
@@ -88,7 +87,7 @@ To run a semantic search query using app.py, use the following command template 
 ```python
 
 query = "search query"
-top_k = Number of top results 
+top_k = Number of top results
 data_cleaning = True or False (based on whether to preprocess the data)
 algorithm = cosine_similarity (or other algorithm to use)
 model = chosen model (e.g., German_Semantic_Comparator)
