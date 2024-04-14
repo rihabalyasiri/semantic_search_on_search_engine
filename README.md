@@ -97,3 +97,6 @@ reverse = True or False (based on the algorithm's sorting requirement)
 ```
 
 Replace the placeholders with your specific details to perform a search. For a detailed explanation of each parameter and how to customize your search, refer to the source code documentation.
+
+## Thesis as PDF
+If you like to go through all the process in more details, here is the link [Evaluating Semantic over an Index of Online Banner Ads]('./ba.pdf')
