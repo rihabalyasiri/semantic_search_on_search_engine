@@ -100,3 +100,6 @@ Replace the placeholders with your specific details to perform a search. For a d
 
 ## Thesis as PDF
 If you like to go through all the process in more details, here is the link [Evaluating Semantic over an Index of Online Banner Ads](https://github.com/rihabalyasiri/semantic_search_on_search_engine/blob/main/ba.pdf)
+
+<a href="https://github.com/rihabalyasiri/semantic_search_on_search_engine/blob/main/ba.pdf" download="thesis.pdf">Download PDF</a>
+
